@@ -12,8 +12,11 @@ For begge versjonene av logoet har jeg lagd en forhåndsvisning av hvordan det v
 # Logo v1
 I denne versjonen er fonten brukt 'Neon One' med litt ekstra tykkelse. Den kan lastes ned gratis fra https://www.pixelsurplus.com/freebies/neon-one-free-neon-style-font. 
 
-
+![Preview-nettside](Preview/URB-website-preview-v1.png)
+![Preview-instagram](Preview/URB-insta-preview-v1.png)
 
 # Logo v2
 I denne versjonen er fonten brukt samme som på nettsiden deres, 'Leitura News'. 
 
+![Preview-nettside](Preview/URB-website-preview-v2.png)
+![Preview-instagram](Preview/URB-insta-preview-v2.png)
