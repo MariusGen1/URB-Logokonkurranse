@@ -20,4 +20,4 @@ I denne versjonen er fonten brukt samme som på nettsiden deres, 'Leitura News'.
 ![Preview-instagram](Preview/URB-insta-preview-v2.jpg)
 
 # Hvordan laste ned
-For å laste ned filene trykker du på den grønne knappen på toppen av siden der det står 'clone or download repository'.
+For å laste ned filene trykker du på den grønne knappen på toppen av siden der det står 'clone or download'.
